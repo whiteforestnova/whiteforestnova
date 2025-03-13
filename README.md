@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @whiteforestnova
-- 👀 I’m interested in annoying people with the word fish
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on the terminus.js by Rando.idiot
-- 📫 How to reach me Dm on discord @wh1t4f0r3est
-- 😄 Pronouns: anything i can find as me
-- ⚡ Fun fact: I like pancakes
+Hello! Im Whiteforest, Also known as soupaasd. My discord is wh1t4f0r3est, I love to build in minecraft and i want to learn java or C++ soon,
 
 <!---
 whiteforestnova/whiteforestnova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
